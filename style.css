@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    /*border: 1px solid black;*/
+}
+header{
+    width: 100%;
+    display: inline-block;
+    background-color: lightblue;
+}
+header h1{
+    margin: 1%;
+    text-align: center;
+}
+header nav{
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    display: inline-block;
+}
+header nav ul li{
+    text-align: center;
+    width: 20%;
+    border-radius: 10px;
+    background-color: rgb(0, 195, 255);
+    padding: 1%;
+    padding-bottom: 0.5%;
+    padding-top: 0.5%;
+    margin-left: 2%;
+    list-style: none;
+    float: left;
+}
+header nav ul li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+main{
+    width: 100%;
+    display: inline-block;
+    text-align: center; 
+    background-color: #f0e2d0;
+}
+main .pasos {
+    margin-bottom: 10px;
+    display: inline-block;
+    color: #5d4037;
+}
+main .pasos div {
+    text-align: center;
+    width: 33%;
+    float: left;
+}
+main .pasos div h1, main .pasos div h3 {
+    margin: 2%;
+}
+main .pasos div img {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+main h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 40px;
+}

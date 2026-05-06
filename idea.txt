@@ -1,0 +1,25 @@
+La Idea: "CookSnap"
+Concepto: Una app minimalista donde le sacás una foto al interior de tu heladera y, mediante IA, te sugiere 3 recetas rápidas con lo que tenés, priorizando lo que está por vencer. Sin vueltas, sin blogs de cocina eternos.
+Estructura de la Landing (Versión Sencilla)
+1. Hero Section (Claridad total)
+Título (H1): Cociná con lo que tenés, sin pensar de más.
+Subtítulo: Sacale una foto a tu heladera y recibí 3 recetas personalizadas en menos de 10 segundos. Chau desperdicio, hola cena.
+CTA: [Empezar ahora - Es gratis]
+2. El Paso a Paso (Guía visual)
+Usá tres columnas con iconos o fotos simples:
+Snap: Foto de tus ingredientes.
+Cook: Elegí una receta de 15, 20 o 30 min.
+Enjoy: Disfrutá tu comida sin haber ido al súper.
+3. Beneficios (Por qué usarlo)
+Ahorro real: Dejá de tirar comida que se vence al fondo de la heladera.
+Cero estrés: Se terminó el "¿Qué comemos hoy?".
+Filtros inteligentes: "Solo tengo una sartén" o "Soy vegetariano".
+4. Validación (Testimonio corto)
+"Antes terminaba pidiendo delivery siempre. Ahora CookSnap me salva los martes a la noche con lo que quedó del domingo." – Lucas, 28 años.
+5. Footer / Cierre
+Texto: Unite a las más de 5,000 personas que dejaron de dudar frente a la heladera.
+CTA: [Descargar para iOS/Android]
+Cómo hacerlo (Herramientas recomendadas):
+Para el diseño/estructura: Usá Figma (si querés armar el prototipo visual) o Carrd.co (si querés una landing real que funcione hoy mismo, es súper simple).
+Para el contenido (Copywriting): Mantené oraciones cortas. Si una palabra no suma, sacala.
+Estética: Buscá una paleta de colores "fresca" (verdes claros, blanco, un toque de naranja) que remita a comida saludable y orden.
