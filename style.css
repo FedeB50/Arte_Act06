@@ -1,7 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
-    border: 1px solid black;
+    /*border: 1px solid black;*/
 }
 header{
     width: 100%;
@@ -62,18 +62,49 @@ main .pasos div img {
     margin-left: 5%;
     margin-right: 5%;
 }
+main .beneficios {
+    margin-top: 10%;
+}
 main .beneficios div {
+    width: 100%;
     display: inline-block;
 }
+main .beneficios .dinero {
+    background-color: #e7d3b7;
+}
 main .beneficios div .imagen {
-    width: 49.75%;
+    width: 49%;
     height: auto;
     float: left;
 }
 main .beneficios div .imagen img {
-    max-width: 45%;
-    margin-left: 5%;
-    margin-right: 5%;
-    
+    width: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
+main .beneficios div .texto {
+    width: 49%;
+    height: auto;
+    float: left;
+    padding-top: 10%;
+}
+main .testimonios {
+    margin-top: 10%;
+    display: inline-block;
+}
+main .testimonios div {
+    width: 40%;
+    float: left;
+    text-align: center;
+    margin: 4%;
+}
+main .testimonios div img {
+    width: 50%;
+    border-radius: 50%;
+}
+main .testimonios div h3 {
+    margin-top: 5%;
+}
+
+
 
