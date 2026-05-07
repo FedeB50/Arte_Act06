@@ -105,6 +105,11 @@ main .testimonios div img {
 main .testimonios div h3 {
     margin-top: 5%;
 }
-
+footer{
+    width: 100%;
+    background-color:  #d4aa70;
+    text-align: center;
+    padding: 2%;
+}
 
 
